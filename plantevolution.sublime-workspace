@@ -31,7 +31,8 @@
 			"file": "en/journal_club.html",
 			"settings":
 			{
-				"buffer_size": 32807,
+				"buffer_size": 33223,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
@@ -39,18 +40,17 @@
 			"file": "fr/journal_club.html",
 			"settings":
 			{
-				"buffer_size": 32945,
+				"buffer_size": 33360,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <title>Joly lab | Publications</title>\n\n    <!-- Bootstrap -->\n    <link href=\"../css/bootstrap.min.css\" rel=\"stylesheet\">\n\n    <!-- Font awesome -->\n    <link rel=\"stylesheet\" href=\"../css/font-awesome.min.css\">\n\n    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->\n    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->\n    <!--[if lt IE 9]>\n      <script src=\"https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js\"></script>\n      <script src=\"https://oss.maxcdn.com/respond/1.4.2/respond.min.js\"></script>\n    <![endif]-->\n\n    <!-- Google analytics -->\n    <script type=\"text/javascript\">\n      var _gaq = _gaq || [];\n      _gaq.push(['_setAccount', 'UA-22994806-1']);\n      _gaq.push(['_trackPageview']);\n      (function() {\n        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;\n        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';\n        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);\n      })();\n    </script>\n  </head>\n\n  <body>\n    <nav class=\"navbar navbar-default navbar-fixed-top\">\n      <div class=\"container\">\n        <!-- Brand and toggle get grouped for better mobile display -->\n        <div class=\"navbar-header\">\n          <button type=\"button\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" data-target=\"#bs-example-navbar-collapse-1\">\n            <span class=\"sr-only\">Toggle navigation</span>\n            <span class=\"icon-bar\"></span>\n            <span class=\"icon-bar\"></span>\n            <span class=\"icon-bar\"></span>\n          </button>\n          <a class=\"navbar-brand\" href=\"index.html\">Joly Lab</a>\n        </div>\n\n        <!-- Collect the nav links, forms, and other content for toggling -->\n        <div class=\"collapse navbar-collapse\" id=\"bs-example-navbar-collapse-1\">\n          <ul class=\"nav navbar-nav\">\n            <li><a href=\"index.html\">Home <span class=\"sr-only\">(current)</span></a></li>\n            <li class=\"dropdown\">\n              <a href=\"#\" class=\"dropdown-toggle\" data-toggle=\"dropdown\" role=\"button\" aria-expanded=\"false\">Research <span class=\"caret\"></span></a>\n              <ul class=\"dropdown-menu\" role=\"menu\">\n                <li><a href=\"reproduction.html\">Plant mating system evolution</a></li>\n                <li><a href=\"speciation\">Speciation and hybridization</a></li>\n                <li class=\"divider\"></li>\n                <li><a href=\"transcriptomics.html\">Transcriptomics</a></li>\n              </ul>\n            </li>\n            <li><a href=\"people.html\">People</a></li>\n            <li><a href=\"softwares.html\">Softwares</a></li>\n            <li class=\"active\"><a href=\"publications.html\">Publications</a></li>\n            <li><a href=\"journal_club.html\">Journal Club</a></li>\n          </ul>\n          <ul class=\"nav navbar-nav navbar-right\">\n            <li><a href=\"../fr/publications.html\">Français</a></li>\n          </ul>\n        </div><!-- /.navbar-collapse -->\n      </div><!-- /.container -->\n    </nav>\n\n    <img class=\"media-object\" src=\"../images/herbarium.jpg\" alt=\"...\" width=\"100%\">\n\n    <div class=\"container\">\n      <h1>Publications</h1>\n\n\n      <h3>Preprints</h3>\n\n      <p>\n        <b>Pollinator specialization imposes stronger evolutionary constraints on flower shape</b><br/>\n        Simon Joly, François Lambert, Hermine Alexandre, Étienne Léveillé-Bourret, John L. Clark<br/>\n        <em>BioRxiv</em><br/>\n        <a href=\"http://biorxiv.org/content/biorxiv/early/2016/03/01/041533.full.pdf\" target=\"_blank\"><i class=\"fa fa-file-pdf-o\"></i> pdf</a> | <a href=\"http://biorxiv.org/content/early/2016/03/01/041533\" target=\"_blank\"><i class=\"fa fa-external-link-square\"></i> Link to the Journal </a> | <a href=\"../downloads/Joly_SuppFigs.html\" target=\"_blank\"><i class=\"fa fa-download\"></i> Supplementary Figures</a>\n      </p>\n\n\n      <h3>In press</h3>\n\n\n      <p>\n        <b>Bioclimatic niches are conserved and unrelated to pollination syndromes in Antillean Gesneriaceae</b><br/>\n        Hermine Alexandre, Julie Faure, Steven Ginzbar, John L. Clark, Simon Joly<br/>\n        <em>Royal Society Open Science</em><br/>\n      </p>\n\n      <p>\n        <b>Species delimitation in the Caribbean <em>Gesneria viridiflora</em> complex (Gesneriaceae) reveals unsuspected endemism</b><br/>\n        François Lambert, John L. Clark, Simon Joly<br/>\n        <em>Taxon</em><br/>\n      </p>\n\n\n      <h3>2017</h3>\n\n      <p>\n        <b>Population isolation shapes plant genetics, phenotype and germination in naturally patchy ecosystems</b><br/>\n        Laurent De Vriendt, Marc-André Lemay, Martine Jean, Sébastien Renaut, Stéphanie Pellerin, Simon Joly, François Belzile, Monique Poulin<br/>\n        <em>Journal of Plant Ecology</em> 10(4):649-659<br/>\n        <a href=\"../pdf/DeVriendt_2017_JPlantEcology.pdf\" target=\"_blank\"><i class=\"fa fa-file-pdf-o\"></i> pdf</a> | <a href=\"https://academic.oup.com/jpe/article/10/4/649/2624496/Population-isolation-shapes-plant-genetics\" target=\"_blank\"><i class=\"fa fa-external-link-square\"></i> Link to the Journal</a>\n      </p>\n\n      <p>\n        <b>Transcriptomic response of purple willow (<em>Salix purpurea</em>) to arsenic stress</b><br/>\n        Aymeric Yanitch, Nicholas J. Brereton, Emmanuel Gonzalez, Michel Labrecque, Simon Joly and Frederic Pitre<br/>\n        <em>Frontiers in Plant Science</em> 8:1115<br/>\n        <a href=\"../pdf/Yanitch2017.pdf\" target=\"_blank\"><i class=\"fa fa-file-pdf-o\"></i> pdf</a> | <a href=\"http://journal.frontiersin.org/file/downloadfile/267609_supplementary-materials_datasheets_1_xlsx/octet-stream/Data%20Sheet%201.xlsx/2/267609\" target=\"_blank\"><i class=\"fa fa-download\"></i> Supplementary Material</a> | <a href=\"http://journal.frontiersin.org/article/10.3389/fpls.2017.01115/abstract\" target=\"_blank\"><i class=\"fa fa-external-link-square\"></i> Link to the Journal</a>\n      </p>\n\n      <p>\n        <b>Genetic structure of the American ginseng (<em>Panax quinquefolius</em> L.) in Eastern Canada using reduced-representation high-throughput sequencing</b><br/>\n        Simon Joly, Annie Archambault, Stéphanie Pellerin, Andrée Nault<br/>\n        <em>Botany</em> 95(4):429-434<br/>\n        <a href=\"../pdf/Joly_2017_Botany.pdf\" target=\"_blank\"><i class=\"fa fa-file-pdf-o\"></i> pdf</a> | <a href=\"../pdf/cjb-2016-0144-supplement-1.pdf\" target=\"_blank\"><i class=\"fa fa-download\"></i> Supplementary Material</a> | <a href=\"http://dx.doi.org/10.6084/m9.figshare.3412990.v1\" target=\"_blank\"><i class=\"fa fa-database\"></i> Data</a> | <a href=\"http://www.nrcresearchpress.com/doi/abs/10.1139/cjb-2016-0144#.WD7gqaLhCHo\" target=\"_blank\"><i class=\"fa fa-external-link-square\"></i> Link to the Journal</a>\n      </p>\n\n\n      <h3>2016</h3>\n\n      <p>\n        <b>Explaining naturalization and invasiveness: new insights from historical ornamental plant catalogues</b><br/>\n        Claude Lavoie, Simon Joly, Alexandre Bergeron, Geneviève Guay and Elisabeth Groeneveld<br/>\n        <em>Ecology and Evolution</em> 6:7188-7198<br/>\n        <a href=\"../pdf/Lavoie_2016_EcolEvol.pdf\" target=\"_blank\"><i class=\"fa fa-file-pdf-o\"></i> pdf</a> | <a href=\"http://www.lefil.ulaval.ca/la-cle-des-champs/\" target=\"_blank\"><i class=\"fa fa-newspaper-o\"></i> Media coverage</a> | <a href=\"http://onlinelibrary.wiley.com/doi/10.1002/ece3.2471/full\" target=\"_blank\"><i class=\"fa fa-external-link-square\"></i> Link to the Journal</a>\n      </p>\n\n      <p>\n        <b>Comparative transcriptomic approaches exploring contamination stress tolerance in <em>Salix sp.</em> reveal the importance for a metaorganismal de novo assembly approach for nonmodel plants</b><br/>\n        Nicholas J. B. Brereton, Emmanuel Gonzalez, Julie Marleau, Werther Guidi Nissim, Michel Labrecque, Simon Joly and Frederic E. Pitre</br>\n        <em>Plant Physiology</em> 171:3-24<br/>\n        <a href=\"../pdf/Brereton_2016_PlantPhys.pdf\" target=\"_blank\"><i class=\"fa fa-file-pdf-o\"></i> pdf</a> | <a href=\"http://www.plantphysiol.org/content/171/1/3.abstract\" target=\"_blank\"><i class=\"fa fa-external-link-square\"></i> Link to the Journal</a>\n      </p>\n\n      <p>\n        <b>Symbiotic association between <em>Salix purpurea</em> and <em>Rhizophagus irregularis</em>: modulation of plant responses under copper stress</b><br/>\n        Adriana M. Almeida-Rodriguez, Marcelo P. Gómez, Audrey Loubert-Hudon, Simon Joly, Michel Labrecque<br/>\n        <em>Tree Physiology</em>36:407-420<br/>\n        <a href=\"../pdf/Almeida-Rodriguez_2016_TreePhys.pdf\" target=\"_blank\"><i class=\"fa fa-file-pdf-o\"></i> pdf</a> | <a href=\"http://treephys.oxfordjournals.org/content/36/4/407\" target=\"_blank\"><i class=\"fa fa-external-link-square\"></i> Link to the Journal</a>\n      </p>\n\n\n      <h3>2015</h3>\n\n      <p>\n        <b>Evolution and phylogenetic diversity of yam species (<em>Dioscorea</em> spp.): implication for conservation and agricultural practices</b><br/>\n        Marie Florence Sandrine Ngo Ngwe, Denis Ndoumou Omokolo, Simon Joly<br/>\n        <em>PLoS ONE</em> 10(12): e0145364<br/>\n        <a href=\"../pdf/NgoNgwe_2015_PLoSONE.pdf\" target=\"_blank\"><i class=\"fa fa-file-pdf-o\"></i> pdf</a> | <a href=\"http://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0145364\" target=\"_blank\"><i class=\"fa fa-external-link-square\"></i> Link to the Journal</a>\n      </p>\n\n      <p>\n        <b>Meta-transcriptomics indicates biotic cross-tolerance in willow trees cultivated on petroleum hydrocarbon contaminated soil</b><br/>\n        Emmanuel Gonzalez, Nicholas Brereton, Julie Marleau, Wherther Guidi, Michel Labrecque, Frederic Pitre, Simon Joly<br/>\n        <em>BMC Plant Biology</em> 15:246<br/>\n        <a href=\"../pdf/Gonzalez_2015_BMCPlantBiology.pdf\" target=\"_blank\"><i class=\"fa fa-file-pdf-o\"></i> pdf</a> | <a href=\"https://www.ebi.ac.uk/ena/data/view/ERP011517\" target=\"_blank\"><i class=\"fa fa-database\"></i> data</a>  | <a href=\"http://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-015-0636-9\" target=\"_blank\"><i class=\"fa fa-external-link-square\"></i> Link to the Journal</a>\n      </p>\n\n      <p>\n        <b>Flexible methods for estimating genetic distances from nucleotide data</b><br/>\n        Simon Joly, David Bryant, Peter J. Lockhart<br/>\n        <em>Methods in Ecology and Evolution</em> 6:938-948<br/>\n        <a href=\"../pdf/Joly&al_2015_MEE.pdf\" target=\"_blank\"><i class=\"fa fa-file-pdf-o\"></i> pdf</a> | <a href=\"../pdf/Joly&al_2015_MEE_SuppMat.zip\" target=\"_blank\"><i class=\"fa fa-download\"></i> Supplementary Material</a> | <a href=\"https://github.com/simjoly/SNPdist_MEE_SuppData\" target=\"_blank\"><i class=\"fa fa-database\"></i> data</a> | <a href=\"https://github.com/simjoly/pofad/releases\" target=\"_blank\"><i class=\"fa fa-code\"></i> software</a> | <a href=\"http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12343/abstract\" target=\"_blank\"><i class=\"fa fa-external-link-square\"></i> Link to the Journal</a>\n      </p>\n\n      <p>\n        <b>Genetic architecture of pollination syndrome transition between hummingbird-specialist and generalist species in the genus <em>Rhytidophyllum</em> (Gesneriaceae)</b><br/>\n        Hermine Alexandre, Justine Vrignaud, Brigitte Mangin, Simon Joly<br/>\n        <em>PeerJ</em> 3:e1028<br/>\n        <a href=\"../pdf/Alexandre&al_2015_PeerJ.pdf\" target=\"_blank\"><i class=\"fa fa-file-pdf-o\"></i> pdf</a> | <a href=\"https://peerj.com/articles/1028/#supplemental-information\" target=\"_blank\"><i class=\"fa fa-download\"></i> Supplementary Material</a> | <a href=\"https://peerj.com/articles/1028/#supp-4\" target=\"_blank\"><i class=\"fa fa-database\"></i> data</a> | <a href=\"https://peerj.com/articles/1028/\" target=\"_blank\"><i class=\"fa fa-external-link-square\"></i> Link to the journal</a>\n      </p>\n      <p>\n        <b>Functional traits related to forest productivity and phylogenetic information: two sides of the same coin over evolutionary scale</b><br/>\n        Alain Paquette, Simon Joly, Christian Messier<br/>\n        <em>Ecology and Evolution</em> 5(9):1774-1783<br/>\n        <a href=\"../pdf/Paquette&al_2015_EcolEvol.pdf\" target=\"_blank\"><i class=\"fa fa-file-pdf-o\"></i> pdf</a> | <a href=\"../pdf/Paquette&al_2015_EcolEvol_SuppMat.zip\" target=\"_blank\"><i class=\"fa fa-download\"></i> Supplementary Material</a> | <a href=\"http://onlinelibrary.wiley.com/doi/10.1002/ece3.1456/abstract\" target=\"_blank\"><i class=\"fa fa-external-link-square\"></i> Link to the Journal</a>\n      </p>\n      <p>\n        <b>Phylogeny and biogeography of wild roses with specific attention to polyploids</b><br/>\n        M Fougère-Danezan, S Joly, A Bruneau, XF Gao, LB Zhang<br/>\n        <em>Annals of Botany</em> 115:275-291<br/>\n        <a href=\"../pdf/Fougere-Danezan_2015_AnnalsBotany.pdf\" target=\"_blank\"><i class=\"fa fa-file-pdf-o\"></i> pdf</a> | <a href=\"http://aob.oxfordjournals.org/content/115/2/275\" target=\"_blank\"><i class=\"fa fa-external-link-square\"></i> Link to the Journal</a>\n      </p>\n\n      <h3>2014</h3>\n\n      <p>\n        <b>Species Radiation by Niche Shifts in New Zealand’s Rockcresses (<em>Pachycladon</em>, Brassicaceae)</b><br/>\n        Simon Joly, Peter B. Heenan, Peter J. Lockhart<br/>\n        <em>Systematic Biology</em> 63(2):192-202<br/>\n        <a href=\"../pdf/Joly&al_2014_SystBiol.pdf\" target=\"_blank\"><i class=\"fa fa-file-pdf-o\"></i> pdf</a> | <a href=\"http://dx.doi.org/10.5061/dryad.h97pk\" target=\"_blank\"><i class=\"fa fa-database\"></i> data</a> | <a href=\"http://sysbio.oxfordjournals.org/content/63/2/192\" target=\"_blank\"><i class=\"fa fa-external-link-square\"></i> Link to the Journal</a>\n      </p>\n      <p>\n        <b>Increasing phytoremediation efficiency and reliability using novel ‘omics approaches</b><br/>\n        Terrence H. Bell, Simon Joly, Frédéric E. Pitre, Etienne Yergeau<br/>\n        <em>Trends in Biotechnology</em> 32(5):271-280<br/>\n        <a href=\"../pdf/Bell&al_2014_TIBTEC.pdf\" target=\"_blank\"><i class=\"fa fa-file-pdf-o\"></i> pdf</a> | <a href=\"http://www.sciencedirect.com/science/article/pii/S0167779914000407\" target=\"_blank\"><i class=\"fa fa-external-link-square\"></i> Link to the Journal</a>\n      </p>\n      <p>\n        <b>Ecology in the age of DNA barcoding: the resource, the promise, and the challenges ahead</b><br/>\n        Simon Joly, T. Jonathan Davies, Annie Archambault, Anne Bruneau, Alison Derry, Steven Kembel, Pedro Peres-Neto, Jana Vamosi, Terry Wheeler<br/>\n        <em>Molecular Ecology Resources</em> 14:221-232<br/>\n        <a href=\"../pdf/Joly&al_2014_MolEcolRes.pdf\" target=\"_blank\"><i class=\"fa fa-file-pdf-o\"></i> pdf</a> | <a href=\"http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12173/abstract\" target=\"_blank\"><i class=\"fa fa-external-link-square\"></i> Link to the Journal</a>\n      </p>\n      <p>\n        <b>Testing Hybridization Hypotheses with Morphometry: the Case of Eastern American Arctic Species of <em>Potentilla</em> sect. <em>Niveae</em> (Rosaceae)</b><br/>\n        Étienne Léveillé-Bourret, Stéphane M. Bailleul, Jacques Cayouette, Simon Joly<br/>\n        <em>Systematic Botany</em> 39(1):193-204<br/>\n        <a href=\"../pdf/LeveilleBourret&al_2014_SystBot.pdf\" target=\"_blank\"><i class=\"fa fa-file-pdf-o\"></i> pdf</a>\n      </p>\n\n      <p>\n        <b>Nuclear DNA content analysis of four cultivated species of yams (<em>Dioscorea</em> spp.) from Cameroon</b><br/>\n        Marie Florence Sandrine Ngo Ngwe, Simon Joly, M Bourge, Spencer Brown, Denis N Omokolo<br/>\n        <em>Journal of Plant Breeding and Genetics</em> 2 (2), 87-95<br/>\n        <a href=\"../pdf/NgoNgwe_2014.pdf\" target=\"_blank\"><i class=\"fa fa-file-pdf-o\"></i> pdf</a>\n      </p>\n\n      <h3>2013</h3>\n\n      <p>\n        <b>Impact of RNA-seq attributes on false positive rates in differential expression analysis of <em>de novo</em> assembled transcriptomes</b><br/>\n        Emmanuel Gonzalez, Simon Joly<br/>\n        <em>BMC Research Notes</em> 6:503<br/>\n        <a href=\"../pdf/Gonzalez&Joly_2013_BMCResearchNotes.pdf\" target=\"_blank\"><i class=\"fa fa-file-pdf-o\"></i> pdf</a> | <a href=\"http://www.biomedcentral.com/1756-0500/6/503/\" target=\"_blank\"><i class=\"fa fa-external-link-square\"></i> Link to the Journal</a>\n      </p>\n      <p>\n        <b>Structuration of the genetic and metabolite diversity among Prince Edward Island cultivated wild rose ecotypes</b><br/>\n        Kaushik Ghose, Jason McCallum, Sherry Fillmore, Chris Kirby, Kevin Sanderson, Simon Joly, Anne Bruneau, Bourlaye Fofana<br/>\n        <em>Scientia Horticulturae</em> 160: 251-263<br/>\n        <a href=\"../pdf/Ghose_2013_ScientiaeHorticulturae.pdf\" target=\"_blank\"><i class=\"fa fa-file-pdf-o\"></i> pdf</a> | <a href=\"http://www.sciencedirect.com/science/article/pii/S0304423813000320\" target=\"_blank\"><i class=\"fa fa-external-link-square\"></i> Link to the Journal</a>\n      </p>\n      <h3>2012</h3>\n      <p>\n        <b>JML: testing hybridization from species trees</b><br/>\n        Simon Joly<br/>\n        <em>Molecular Ecology Ressources</em> 12: 179-184<br/>\n        <a href=\"../pdf/Joly_2012_MolEcolRes.pdf\" target=\"_blank\"><i class=\"fa fa-file-pdf-o\"></i> pdf</a> | <a href=\"../pdf/Joly_2011_MER_SuppFig1.pdf\" target=\"_blank\"><i class=\"fa fa-download\"></i> Supplementary Material</a> | <a href=\"../pdf/rosa.xml\" target=\"_blank\"><i class=\"fa fa-database\"></i> Data</a> | <a href=\"https://github.com/simjoly/jml/releases\" target=\"_blank\"><i class=\"fa fa-code\"></i> software</a> | <a href=\"http://onlinelibrary.wiley.com/doi/10.1111/j.1755-0998.2011.03065.x/abstract\" target=\"_blank\"><i class=\"fa fa-external-link-square\"></i> Link to the Journal</a>\n      </p>\n      <h3>2011</h3>\n      <p>\n        <b>Migration rates, frequency-dependent selection and the self-incompatibility locus in <em>Leavenworthia</em> (Brassicaceae)</b><br/>\n        Simon Joly, Daniel J. Schoen<br/>\n        <em>Evolution</em> 65: 2357-2369<br/>\n        <a href=\"../pdf/Joly&Schoen_2011_Evolution.pdf\" target=\"_blank\"><i class=\"fa fa-file-pdf-o\"></i> pdf</a> | <a href=\"../pdf/Joly&Schoen_2011_SuppMat.tar.gz\" target=\"_blank\"><i class=\"fa fa-download\"></i> Supplementary Material</a> | <a href=\"http://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.2011.01300.x/abstract\" target=\"_blank\"><i class=\"fa fa-external-link-square\"></i> Link to the Journal</a>\n      </p>\n      <p>\n        <b>Demographic signatures accompanying the evolution of selfing in <em>Leavenworthia alabamica</em></b><br/>\n        Jeremiah W. Busch, Simon Joly, Daniel J. Schoen<br/>\n        <em>Molecular Biology and Evolution</em> 28: 1717-1729<br/>\n        <a href=\"../pdf/Busch&al_2011_MBE.pdf\" target=\"_blank\"><i class=\"fa fa-file-pdf-o\"></i> pdf</a> | <a href=\"../pdf/Busch&al_2011_MBE_SuppMat.tar.gz\" target=\"_blank\"><i class=\"fa fa-download\"></i> Supplementary Material</a> | <a href=\"http://mbe.oxfordjournals.org/content/28/5/1717.abstract\"><i class=\"fa fa-external-link-square\"></i> Link to the Journal</a>\n      </p>\n      <p>\n        <b><em>Pachycladon</em></b><br/> \n        Krithika Yogeeswaran, Claudia Voelckel, Simon Joly, Peter B. Heenan<br/> \n        <em>Dans</em> Wild Crop Relatives: Genomic and Breeding Resources, ed. Chittaranjan Kole.<br/> \n        Springer, Berlin. pp. 227-249<br/>\n        <a href=\"../pdf/Yogeeswaran&al_2011_Pachycladon.pdf\" target=\"_blank\"><i class=\"fa fa-file-pdf-o\"></i> pdf</a>\n      </p>\n       \n      <h3>2010</h3>\n\n      <p>\n        <b>Fast diploidization in close mesopolyploid relatives of <em>Arabidopsis</em></b><br/>\n        Terezie Mandáková, Simon Joly, Martin Krzywinski, Klaus Mummenhoff, Martin A. Lysak<br/>\n        <em>The Plant Cell</em> 22: 2277-2290<br/>\n        <a href=\"../pdf/Mandakova&al_2010_PlantCell.pdf\" target=\"_blank\"><i class=\"fa fa-file-pdf-o\"></i> pdf</a> | <a href=\"Mandakova&al_2010_PlantCell_SuppMat.pdf\" target=\"_blank\"><i class=\"fa fa-download\"></i> Supplementary Material</a> | <a href=\"http://www.plantcell.org/content/22/7/2277.abstract\" target=\"_blank\"><i class=\"fa fa-external-link-square\"></i> Link to the Journal</a>\n      </p>\n      <p>\n        <b>Does mate limitation in self-incompatible species promote the evolution of selfing?  The case\n        of <em>Leavenworthia alabamica</em></b><br/>\n        Jeremiah W. Busch, Simon Joly, Daniel J. Schoen<br/>\n        <em>Evolution</em> 64: 1657-1670<br/>\n        <a href=\"../pdf/Busch&al_2010_Evolution.pdf\" target=\"_blank\"><i class=\"fa fa-file-pdf-o\"></i> pdf</a> | <a href=\"http://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.2009.00925.x/abstract\" target=\"_blank\"><i class=\"fa fa-external-link-square\"></i> Link to the Journal</a>\n      </p>\n\n      <h3>2009</h3>\n\n      <p>\n        <b>A statistical approach for distinguishing hybridization and incomplete lineage sorting.</b><br/>\n        Simon Joly, Patricia A. McLenachan, Peter J. Lockhart<br/>\n        <i>The American Naturalist</i> 174: e54-e70<br/>\n        <a href=\"../pdf/Joly&al_2009_AmNat.pdf\" target=\"_blank\"><i class=\"fa fa-file-pdf-o\"></i> pdf</a> | <a href=\"../pdf/Joly&al_2010_AmNat.pdf\" target=\"_blank\"><i class=\"fa fa-file-pdf-o\"></i> Correction</a>\n      </p>\n      <p>\n        <b>Measuring branch support in species trees obtained by gene tree parsimony</b><br/>\n        Simon Joly, Anne Bruneau<br/>\n        <i>Systematic Biology</i> 58: 100-113<br/>\n        <a href=\"../pdf/Joly&Bruneau_2009_SystBiol.pdf\" target=\"_blank\"><i class=\"fa fa-file-pdf-o\"></i> pdf</a>\n      </p>\n      <p>\n        <b>A Pleistocene inter-tribal allopolyploidization event precedes the species radiation of \n        <i>Pachycladon</i> (Brassicaceae) in New Zealand</b><br/>\n        Simon Joly, Peter B. Heenan, Peter J. Lockhart\n        <i>Molecular Phylogenetics and Evolution</i> 51:365-372.<br/>\n        <a href=\"../pdf/Joly&al_2009_MolPhylogenetEvol.pdf\" target=\"_blank\"><i class=\"fa fa-file-pdf-o\"></i> pdf</a> | <a href=\"../pdf/Joly&al_2009_MolPhylogenetEvol_SuppInfo.pdf\" target=\"_blank\"><i class=\"fa fa-download\"></i> Supplementary Material</a>\n      </p>\n\n      <h3>2008</h3>            \n\n      <p>\n        <b>An approach to transcriptome analysis of non-model organisms using short-read sequences.</b><br/>\n        Lesley J. Collins, Patrick J. Biggs, Claudia Voelckel, Simon Joly<br/>\n        <i>Genome Informatics</i> 21: 3-14<br/>\n        <a href=\"../pdf/Collins&al_2008_GenomeInformatics.pdf\" target=\"_blank\"><i class=\"fa fa-file-pdf-o\"></i> pdf</a>\n      </p>\n      <p>\n        <b>Phylogeny of dinoflagellate plastid genes recently transferred to the nucleus supports a common ancestry\n        with stramenopile plastid genes</b><br/>\n        Yunling Wang, Simon Joly, David Morse<br/>\n        <i>Journal of Molecular Evolution</i> 66: 175-184<br/>\n        <a href=\"../pdf/Wang&al_2008_JMolEvol.pdf\" target=\"_blank\"><i class=\"fa fa-file-pdf-o\"></i> pdf</a>\n      </p>\n      <h3>2007</h3>    \n      <p>\n        <b>Haplotype Networks can be Misleading in the Presence of Missing Data</b><br/>\n        Simon Joly, Mark I. Stevens, Bettine Jansen Van Vuuren<br/>\n        <i>Systematic Biology</i> 56:857-862.<br/>\n        <a href=\"../pdf/Joly&al_2007_SysBiol.pdf\" target=\"_blank\"><i class=\"fa fa-file-pdf-o\"></i> pdf</a>\n      </p>\n      <p>\n        <b>Delimiting species boundaries in <i>Rosa</i> sect. <i>Cinnamomeae</i> (Rosaceae) in eastern North America</b><br/>\n        Simon Joly, Anne Bruneau<br/>\n        <i>Systematic Botany</i> 32: 819-836<br/>\n        <a href=\"../pdf/Joly&Bruneau_2007_SystBot.pdf\" target=\"_blank\"><i class=\"fa fa-file-pdf-o\"></i> pdf</a>\n      </p>\n      <p>\n        <b>Phylogenetic relationships in the genus <i>Rosa</i>: new evidence from chloroplast DNA sequences and appraisal\n        of current knowledge</b><br/>\n        Anne Bruneau, Julian R. Starr, Simon Joly<br/>\n        <i>Systematic Botany</i> 32:366-378.<br/>\n        <a href=\"../pdf/Bruneau&al_2007_SystBot.pdf\" target=\"_blank\"><i class=\"fa fa-file-pdf-o\"></i> pdf</a>\n      </p>\n      <h3>2006</h3>\n      <p>\n        <b>Incorporating allelic variation for reconstructing the evolutionary \n        history of organisms from multiple genes: an example from <i>Rosa</i> in North America</b><br/>\n        Simon Joly, Anne Bruneau<br/>\n        <i>Systematic Biology</i> 55: 623-636<br/>\n        <a href=\"../pdf/Joly&Bruneau_2006_SystBiol.pdf\" target=\"_blank\"><i class=\"fa fa-file-pdf-o\"></i> pdf</a>\n      </p>\n      <p>\n        <b>Evolution des roses (<i>Rosa</i>:Rosaceae) indigènes de la section Cinnamomeae\n        à l'est des Montagnes Rocheuses</b><br/>\n        Simon Joly<br/>\n        Thèse de doctorat, Département de Sciences biologiques, Université de Montréal, Montréal, Canada<br/>\n        <a href=\"../pdf/Joly_PhD_thesis.pdf\" target=\"_blank\"><i class=\"fa fa-file-pdf-o\"></i> pdf</a>\n      </p>\n      <p>\n        <b>Polyploid and hybrid evolution in  roses east of the Rocky Mountains</b><br/>\n        Simon Joly, Julian R. Starr, Walter H. Lewis, Anne Bruneau<br/>\n        <i>American Journal of Botany</i> 93: 412-425<br/>\n        <a href=\"../pdf/Joly&al_2006_AmJBot.pdf\" target=\"_blank\"><i class=\"fa fa-file-pdf-o\"></i> pdf</a>\n      </p>\n      <h3>2005</h3>\n      <p>\n        <b>Molecular markers indicate that the narrow Québec endemics <i>Rosa rousseauiorum</i> and <i>Rosa williamsii</i>\n        are synonymous with the widespread <i>Rosa blanda</i></b><br/>\n        Anne Bruneau, Simon Joly, Julian R. Starr, Josée-Nadia Drouin<br/>\n        <i>Canadian Journal of Botany</i> 83: 386-398<br/>\n        <a href=\"../pdf/Bruneau&al_2005_CanJBot.pdf\" target=\"_blank\"><i class=\"fa fa-file-pdf-o\"></i> pdf</a>\n      </p>\n      <h3>2004</h3>\n      <p>\n        <b>Evolution of triploidy in <i>Apios americana</i> (Leguminosae) revealed by the genealogical analysis of\n        the histone H3-D gene</b><br/>\n        Simon Joly, Anne Bruneau<br/>\n        <i>Evolution</i> 58: 284-295<br/>\n        <a href=\"../pdf/Joly&Bruneau_2004_Evolution.pdf\" target=\"_blank\"><i class=\"fa fa-file-pdf-o\"></i> pdf</a>\n      </p>\n      <p>\n        <b>Evolutionary dynamics and preferential expression of homeologous 18S-5.8S-26S nuclear ribosomal genes in natural and artificial  \n        <i>Glycine</i> allopolyploids</b><br/>\n        Simon Joly, Jason T. Rauscher, Susan L. Sherman-Broyles, A. H. D. Brown, Jeff J. Doyle<br/>\n        <i>Molecular Biology and Evolution</i> 21: 1409-1421<br/>\n        <a href=\"../pdf/Joly&al_2004_MBE.pdf\" target=\"_blank\"><i class=\"fa fa-file-pdf-o\"></i> pdf</a>\n      </p>\n      <h3>2001</h3>\n      <p>\n        <b>Phylogenetic implications of the multiple losses of the\n        mitochondrial <i>coxII.i3</i> intron in the angiosperms</b><br/>\n        Simon Joly, Luc Brouillet, Anne Bruneau<br/>\n        <i>International Journal of Plant Science</i> 162: 359-373<br/>\n        <a href=\"../pdf/Joly&al_2001_IJPS.pdf\" target=\"_blank\"><i class=\"fa fa-file-pdf-o\"></i> pdf</a>\n      </p>    \n\n      <!-- FOOTER -->\n      <footer>\n        <hr>\n        <p class=\"pull-right\"><a href=\"#\">Back to top</a></p>\n        <p>Site hosted on <a href=\"https://github.com/plantevolution/plantevolution.github.io\" target=\"_blank\"><i class=\"fa fa-github fa-lg\"></i> GitHub</a></br>\n          Built with <a href=\"getbootstrap.com\">Bootstrap</a> &middot; <a href=\"fortawesome.github.io/Font-Awesome/\">Font awesome</a><br>\n          &copy; 2015 Simon Joly &middot; <a href=\"#\">Terms</a></p>\n      </footer>\n    </div><!-- /.container -->\n\n\n    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->\n    <script src=\"https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js\"></script>\n    <!-- Include all compiled plugins (below), or include individual files as needed -->\n    <script src=\"../js/bootstrap.min.js\"></script>\n  </body>\n</html>",
 			"file": "en/publications.html",
-			"file_size": 27618,
-			"file_write_time": 1503597643000000,
 			"settings":
 			{
-				"buffer_size": 27858,
+				"buffer_size": 27582,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
@@ -59,6 +59,7 @@
 			"settings":
 			{
 				"buffer_size": 27903,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
@@ -67,6 +68,7 @@
 			"settings":
 			{
 				"buffer_size": 25559,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
@@ -75,6 +77,7 @@
 			"settings":
 			{
 				"buffer_size": 27319,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
@@ -83,6 +86,7 @@
 			"settings":
 			{
 				"buffer_size": 9808,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
@@ -91,14 +95,20 @@
 			"settings":
 			{
 				"buffer_size": 9945,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
 	],
 	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
 	"command_palette":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
@@ -106,7 +116,10 @@
 	},
 	"console":
 	{
-		"height": 0.0
+		"height": 0.0,
+		"history":
+		[
+		]
 	},
 	"distraction_free":
 	{
@@ -117,6 +130,10 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Users/simonjoly/Documents/github/plantevolution.github.io"
+	],
 	"file_history":
 	[
 		"/Users/simonjoly/Documents/labo/étudiants/Francois/papers/article_sp_delim/analyses/bpp/more_outgroups/CHI.phy",
@@ -250,7 +267,7 @@
 	],
 	"find":
 	{
-		"height": 35.0
+		"height": 23.0
 	},
 	"find_in_files":
 	{
@@ -297,7 +314,7 @@
 			"OutSubTreeN",
 			"OutaTreeN",
 			"1",
-			"	",
+			"\t",
 			".nnn",
 			"ploidy",
 			"malay",
@@ -394,23 +411,24 @@
 	"groups":
 	[
 		{
-			"selected": 7,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
 					"file": "en/journal_club.html",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 32807,
+						"buffer_size": 33223,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4669,
-								4669
+								6215,
+								6215
 							]
 						],
 						"settings":
@@ -421,25 +439,27 @@
 							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1314.0,
+						"translation.y": 2074.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
 					"file": "fr/journal_club.html",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 32945,
+						"buffer_size": 33360,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4366,
-								4697
+								6235,
+								6235
 							]
 						],
 						"settings":
@@ -450,17 +470,19 @@
 							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1321.0,
+						"translation.y": 1917.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
 					"buffer": 2,
 					"file": "en/publications.html",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 27858,
+						"buffer_size": 27582,
 						"regions":
 						{
 						},
@@ -482,11 +504,13 @@
 						"translation.y": 1234.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
 					"buffer": 3,
 					"file": "fr/publications.html",
+					"semi_transient": false,
 					"settings":
 					{
 						"buffer_size": 27903,
@@ -511,11 +535,13 @@
 						"translation.y": 1143.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
 					"buffer": 4,
 					"file": "en/index.html",
+					"semi_transient": false,
 					"settings":
 					{
 						"buffer_size": 25559,
@@ -540,11 +566,13 @@
 						"translation.y": 2078.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
 					"buffer": 5,
 					"file": "fr/index.html",
+					"semi_transient": false,
 					"settings":
 					{
 						"buffer_size": 27319,
@@ -569,11 +597,13 @@
 						"translation.y": 1783.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
 					"buffer": 6,
 					"file": "en/people.html",
+					"semi_transient": false,
 					"settings":
 					{
 						"buffer_size": 9808,
@@ -597,11 +627,13 @@
 						"translation.y": 2283.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 7,
 					"type": "text"
 				},
 				{
 					"buffer": 7,
 					"file": "fr/people.html",
+					"semi_transient": false,
 					"settings":
 					{
 						"buffer_size": 9945,
@@ -622,9 +654,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1212.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -632,7 +665,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 23.0
 	},
 	"input":
 	{
@@ -661,14 +694,21 @@
 		]
 	},
 	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "plantevolution.sublime-project",
 	"replace":
 	{
-		"height": 64.0
+		"height": 42.0
 	},
 	"save_all_on_build": true,
 	"select_file":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -681,15 +721,32 @@
 	"select_project":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
 		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
 	},
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
 	"side_bar_width": 257.0,
-	"status_bar_visible": true
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
 }
