@@ -31,7 +31,7 @@
 			"file": "en/journal_club.html",
 			"settings":
 			{
-				"buffer_size": 33223,
+				"buffer_size": 33260,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -40,7 +40,7 @@
 			"file": "fr/journal_club.html",
 			"settings":
 			{
-				"buffer_size": 33360,
+				"buffer_size": 33396,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -411,7 +411,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -420,15 +420,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 33223,
+						"buffer_size": 33260,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								6215,
-								6215
+								5283,
+								5283
 							]
 						],
 						"settings":
@@ -439,10 +439,10 @@
 							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2074.0,
+						"translation.y": 1639.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -451,15 +451,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 33360,
+						"buffer_size": 33396,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								6235,
-								6235
+								5308,
+								5308
 							]
 						],
 						"settings":
@@ -470,10 +470,10 @@
 							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1917.0,
+						"translation.y": 1715.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -504,7 +504,7 @@
 						"translation.y": 1138.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -535,7 +535,7 @@
 						"translation.y": 1083.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
