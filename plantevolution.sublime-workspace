@@ -49,7 +49,7 @@
 			"file": "en/publications.html",
 			"settings":
 			{
-				"buffer_size": 28772,
+				"buffer_size": 28988,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -58,7 +58,7 @@
 			"file": "fr/publications.html",
 			"settings":
 			{
-				"buffer_size": 28820,
+				"buffer_size": 29030,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -136,6 +136,7 @@
 	],
 	"file_history":
 	[
+		"/Users/simjoly/Documents/gesneria/papers/flower_evolution/AmNat/suppfigdata/Joly_SuppFigs.html",
 		"/Users/simonjoly/Documents/labo/étudiants/Francois/papers/article_sp_delim/analyses/bpp/more_outgroups/CHI.phy",
 		"/Users/simonjoly/Documents/github/plantevolution.github.io/fr/people.html",
 		"/Users/simonjoly/Documents/github/plantevolution.github.io/en/people.html",
@@ -262,8 +263,7 @@
 		"/Users/simonjoly/Documents/labo/SiteWeb 3/fr/polyploidie.html",
 		"/Users/simonjoly/Documents/labo/SiteWeb 3/fr/recherche.html",
 		"/Users/simonjoly/Documents/labo/SiteWeb 3/fr/simonjoly.html",
-		"/Users/simonjoly/Documents/labo/SiteWeb 3/en/downloads.html",
-		"/Users/simonjoly/Documents/labo/SiteWeb 3/en/polyploidy.html"
+		"/Users/simonjoly/Documents/labo/SiteWeb 3/en/downloads.html"
 	],
 	"find":
 	{
@@ -411,7 +411,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -482,15 +482,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 28772,
+						"buffer_size": 28988,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4182,
-								4182
+								3798,
+								3828
 							]
 						],
 						"settings":
@@ -501,10 +501,10 @@
 							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1285.0,
+						"translation.y": 1195.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -513,15 +513,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 28820,
+						"buffer_size": 29030,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4235,
-								4235
+								3851,
+								3851
 							]
 						],
 						"settings":
@@ -532,10 +532,10 @@
 							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1232.0,
+						"translation.y": 1049.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
