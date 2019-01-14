@@ -40,16 +40,7 @@
 			"file": "en/journal_club.html",
 			"settings":
 			{
-				"buffer_size": 38445,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "en/hybridization.html",
-			"settings":
-			{
-				"buffer_size": 6354,
+				"buffer_size": 38792,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -58,7 +49,7 @@
 			"file": "fr/journal_club.html",
 			"settings":
 			{
-				"buffer_size": 38721,
+				"buffer_size": 38980,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -111,6 +102,7 @@
 	],
 	"file_history":
 	[
+		"/Users/simjoly/Documents/GitHub/plantevolution.github.io/en/hybridization.html",
 		"/Users/simjoly/Documents/GitHub/plantevolution.github.io/fr/people.html",
 		"/Users/simjoly/Documents/GitHub/plantevolution.github.io/en/people.html",
 		"/Users/simjoly/Documents/GitHub/plantevolution.github.io/fr/index.html",
@@ -237,8 +229,7 @@
 		"/Users/simonjoly/Documents/papers/matchstates/hybrid/Rep4.dat",
 		"/Users/simonjoly/Documents/labo/SiteWeb 3/fr/publications.html",
 		"/Users/simonjoly/Documents/labo/SiteWeb 3/fr/jml.html",
-		"/Users/simonjoly/Desktop/untitled",
-		"/Users/simonjoly/Documents/labo/SiteWeb 3/fr/conservation.html"
+		"/Users/simonjoly/Desktop/untitled"
 	],
 	"find":
 	{
@@ -388,7 +379,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -419,7 +410,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
@@ -428,15 +419,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 38445,
+						"buffer_size": 38792,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								6190,
-								6414
+								7428,
+								7428
 							]
 						],
 						"settings":
@@ -446,7 +437,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1964.0,
+						"translation.y": 2459.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -454,49 +445,19 @@
 				},
 				{
 					"buffer": 2,
-					"file": "en/hybridization.html",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 6354,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
 					"file": "fr/journal_club.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 38721,
+						"buffer_size": 38980,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								6437,
-								6437
+								7442,
+								7449
 							]
 						],
 						"settings":
@@ -506,14 +467,14 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1988.0,
+						"translation.y": 2669.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 3,
 					"file": "fr/publications.html",
 					"semi_transient": false,
 					"settings":
@@ -537,10 +498,10 @@
 							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1145.0,
+						"translation.y": 1897.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
