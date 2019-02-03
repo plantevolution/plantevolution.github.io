@@ -40,7 +40,7 @@
 			"file": "en/journal_club.html",
 			"settings":
 			{
-				"buffer_size": 38792,
+				"buffer_size": 42573,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -49,7 +49,7 @@
 			"file": "fr/journal_club.html",
 			"settings":
 			{
-				"buffer_size": 38980,
+				"buffer_size": 42720,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -419,15 +419,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 38792,
+						"buffer_size": 42573,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								7428,
-								7428
+								3489,
+								3489
 							]
 						],
 						"settings":
@@ -437,7 +437,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2459.0,
+						"translation.y": 953.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -449,15 +449,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 38980,
+						"buffer_size": 42720,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								7442,
-								7449
+								3500,
+								7240
 							]
 						],
 						"settings":
@@ -467,7 +467,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2669.0,
+						"translation.y": 3135.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
