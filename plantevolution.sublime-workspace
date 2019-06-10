@@ -31,7 +31,7 @@
 			"file": "en/people.html",
 			"settings":
 			{
-				"buffer_size": 10639,
+				"buffer_size": 10640,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -40,7 +40,7 @@
 			"file": "fr/people.html",
 			"settings":
 			{
-				"buffer_size": 10814,
+				"buffer_size": 10815,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -388,7 +388,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -397,15 +397,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 10639,
+						"buffer_size": 10640,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								6479,
-								6479
+								7129,
+								7114
 							]
 						],
 						"settings":
@@ -415,10 +415,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2295.0,
+						"translation.y": 2620.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -427,15 +427,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 10814,
+						"buffer_size": 10815,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								6742,
-								6742
+								7279,
+								7279
 							]
 						],
 						"settings":
@@ -445,10 +445,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2453.0,
+						"translation.y": 2606.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
