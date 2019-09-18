@@ -28,37 +28,10 @@
 	"buffers":
 	[
 		{
-			"file": "en/people.html",
+			"file": "en/publications.html",
 			"settings":
 			{
-				"buffer_size": 10640,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "fr/people.html",
-			"settings":
-			{
-				"buffer_size": 10815,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "fr/index.html",
-			"settings":
-			{
-				"buffer_size": 30756,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "en/journal_club.html",
-			"settings":
-			{
-				"buffer_size": 43647,
+				"buffer_size": 31592,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -67,7 +40,16 @@
 			"file": "fr/journal_club.html",
 			"settings":
 			{
-				"buffer_size": 43794,
+				"buffer_size": 47061,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "en/journal_club.html",
+			"settings":
+			{
+				"buffer_size": 46896,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -106,11 +88,18 @@
 	"expanded_folders":
 	[
 		"/Users/simonjoly/Documents/github/plantevolution.github.io",
-		"/Users/simjoly/Documents/GitHub/plantevolution.github.io/en",
-		"/Users/simjoly/Documents/GitHub/plantevolution.github.io/fr"
+		"/Users/ujoly92/github/plantevolution.github.io/en",
+		"/Users/ujoly92/github/plantevolution.github.io/fr"
 	],
 	"file_history":
 	[
+		"/Users/ujoly92/github/plantevolution.github.io/en/journal_club.html",
+		"/Users/ujoly92/github/plantevolution.github.io/fr/journal_club.html",
+		"/Users/ujoly92/github/plantevolution.github.io/fr/publications.html",
+		"/Users/ujoly92/github/plantevolution.github.io/fr/people.html",
+		"/Users/ujoly92/github/plantevolution.github.io/en/people.html",
+		"/Users/ujoly92/github/plantevolution.github.io/en/index.html",
+		"/Users/ujoly92/github/plantevolution.github.io/fr/index.html",
 		"/Users/simjoly/Documents/GitHub/plantevolution.github.io/fr/index.html",
 		"/Users/simjoly/Documents/GitHub/plantevolution.github.io/en/index.html",
 		"/Users/simjoly/Documents/GitHub/plantevolution.github.io/en/publications.html",
@@ -231,14 +220,7 @@
 		"/Users/simonjoly/Documents/UdeM/comités conseils/Boris Domenech/comité conseil - Boris Domenech - commentaires.txt",
 		"/Users/simonjoly/Documents/gesneria/terrain/haiti/Liste Gesneriaceae d'Haïti.txt",
 		"/Users/simonjoly/Documents/labo/étudiants/Florence/article/pd/analyses/table1.csv",
-		"/Users/simonjoly/Documents/labo/étudiants/Florence/article/pd/analyses/tableau.csv",
-		"/Users/simonjoly/Documents/labo/SiteWeb 3/fr/contact.html",
-		"/Users/simonjoly/Documents/labo/SiteWeb 3/en/contact.html",
-		"/Users/simonjoly/Documents/papers/matchstates/latex_paper/additions.txt",
-		"/Users/simonjoly/Documents/labo/SiteWeb 3/pofad.html",
-		"/Users/simonjoly/Documents/programmation/pofad1.06/src/2ISP.csv",
-		"/Users/simonjoly/Documents/papers/matchstates/hybrid/Rep4.dat",
-		"/Users/simonjoly/Documents/labo/SiteWeb 3/fr/publications.html"
+		"/Users/simonjoly/Documents/labo/étudiants/Florence/article/pd/analyses/tableau.csv"
 	],
 	"find":
 	{
@@ -256,6 +238,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"À déterminer",
 			"à venir",
 			"12h00",
 			"agrandir",
@@ -359,6 +342,8 @@
 		"replace_history":
 		[
 			"<em>à déterminer</em>",
+			"<em>TBA</em>",
+			"<em>à déterminer</em>",
 			"noon",
 			"Matériel Supplémentaire",
 			"Données",
@@ -388,24 +373,24 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "en/people.html",
+					"file": "en/publications.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 10640,
+						"buffer_size": 31592,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								7129,
-								7114
+								3668,
+								3668
 							]
 						],
 						"settings":
@@ -415,117 +400,27 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2620.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "fr/people.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 10815,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								7279,
-								7279
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2606.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "fr/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 30756,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								7388,
-								7388
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1937.0,
+						"translation.y": 1336.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "en/journal_club.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 43647,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6782,
-								6782
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2466.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
+					"buffer": 1,
 					"file": "fr/journal_club.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 43794,
+						"buffer_size": 47061,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								6408,
-								6408
+								4004,
+								4004
 							]
 						],
 						"settings":
@@ -535,10 +430,40 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1367.0,
+						"translation.y": 1531.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "en/journal_club.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 46896,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6621,
+								6633
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1282.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -583,7 +508,7 @@
 	"project": "plantevolution.sublime-project",
 	"replace":
 	{
-		"height": 44.0
+		"height": 70.0
 	},
 	"save_all_on_build": true,
 	"select_file":
