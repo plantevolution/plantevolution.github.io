@@ -40,7 +40,7 @@
 			"file": "fr/journal_club.html",
 			"settings":
 			{
-				"buffer_size": 47307,
+				"buffer_size": 48264,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -49,7 +49,7 @@
 			"file": "en/journal_club.html",
 			"settings":
 			{
-				"buffer_size": 47160,
+				"buffer_size": 48124,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -373,7 +373,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -412,15 +412,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 47307,
+						"buffer_size": 48264,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5545,
-								5545
+								5204,
+								5204
 							]
 						],
 						"settings":
@@ -430,10 +430,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2738.0,
+						"translation.y": 2017.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -442,15 +442,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 47160,
+						"buffer_size": 48124,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5540,
-								5540
+								5363,
+								5225
 							]
 						],
 						"settings":
@@ -460,10 +460,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1900.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
