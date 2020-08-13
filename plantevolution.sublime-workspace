@@ -31,25 +31,25 @@
 			"file": "en/publications.html",
 			"settings":
 			{
-				"buffer_size": 31592,
+				"buffer_size": 32234,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "fr/journal_club.html",
+			"file": "en/index.html",
 			"settings":
 			{
-				"buffer_size": 50681,
+				"buffer_size": 28689,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "en/journal_club.html",
+			"file": "fr/publications.html",
 			"settings":
 			{
-				"buffer_size": 50414,
+				"buffer_size": 32394,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -93,11 +93,11 @@
 	],
 	"file_history":
 	[
-		"/Users/ujoly92/github/plantevolution.github.io/en/journal_club.html",
-		"/Users/ujoly92/github/plantevolution.github.io/fr/journal_club.html",
-		"/Users/ujoly92/github/plantevolution.github.io/fr/publications.html",
-		"/Users/ujoly92/github/plantevolution.github.io/fr/people.html",
 		"/Users/ujoly92/github/plantevolution.github.io/en/people.html",
+		"/Users/ujoly92/github/plantevolution.github.io/fr/people.html",
+		"/Users/ujoly92/github/plantevolution.github.io/fr/journal_club.html",
+		"/Users/ujoly92/github/plantevolution.github.io/en/journal_club.html",
+		"/Users/ujoly92/github/plantevolution.github.io/fr/publications.html",
 		"/Users/ujoly92/github/plantevolution.github.io/en/index.html",
 		"/Users/ujoly92/github/plantevolution.github.io/fr/index.html",
 		"/Users/simjoly/Documents/GitHub/plantevolution.github.io/fr/index.html",
@@ -373,7 +373,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -382,15 +382,45 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 31592,
+						"buffer_size": 32234,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3668,
-								3668
+								3758,
+								3758
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 943.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "en/index.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 28689,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
 							]
 						],
 						"settings":
@@ -407,20 +437,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "fr/journal_club.html",
+					"buffer": 2,
+					"file": "fr/publications.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 50681,
+						"buffer_size": 32394,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3515,
-								3515
+								3644,
+								3644
 							]
 						],
 						"settings":
@@ -430,40 +460,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1257.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "en/journal_club.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 50414,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3707,
-								3707
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1107.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -508,7 +508,7 @@
 	"project": "plantevolution.sublime-project",
 	"replace":
 	{
-		"height": 70.0
+		"height": 44.0
 	},
 	"save_all_on_build": true,
 	"select_file":
