@@ -31,7 +31,7 @@
 			"file": "en/publications.html",
 			"settings":
 			{
-				"buffer_size": 32234,
+				"buffer_size": 33584,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -40,16 +40,7 @@
 			"file": "en/index.html",
 			"settings":
 			{
-				"buffer_size": 28689,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "fr/publications.html",
-			"settings":
-			{
-				"buffer_size": 32394,
+				"buffer_size": 29867,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -93,11 +84,12 @@
 	],
 	"file_history":
 	[
+		"/Users/ujoly92/Downloads/en_climate_daily_NT_2204100_1988_P1D.csv",
+		"/Users/ujoly92/github/plantevolution.github.io/fr/publications.html",
 		"/Users/ujoly92/github/plantevolution.github.io/en/people.html",
 		"/Users/ujoly92/github/plantevolution.github.io/fr/people.html",
 		"/Users/ujoly92/github/plantevolution.github.io/fr/journal_club.html",
 		"/Users/ujoly92/github/plantevolution.github.io/en/journal_club.html",
-		"/Users/ujoly92/github/plantevolution.github.io/fr/publications.html",
 		"/Users/ujoly92/github/plantevolution.github.io/en/index.html",
 		"/Users/ujoly92/github/plantevolution.github.io/fr/index.html",
 		"/Users/simjoly/Documents/GitHub/plantevolution.github.io/fr/index.html",
@@ -219,8 +211,7 @@
 		"/Users/simonjoly/Documents/revisions/SystBiol/2014/Review of Morando.txt",
 		"/Users/simonjoly/Documents/UdeM/comités conseils/Boris Domenech/comité conseil - Boris Domenech - commentaires.txt",
 		"/Users/simonjoly/Documents/gesneria/terrain/haiti/Liste Gesneriaceae d'Haïti.txt",
-		"/Users/simonjoly/Documents/labo/étudiants/Florence/article/pd/analyses/table1.csv",
-		"/Users/simonjoly/Documents/labo/étudiants/Florence/article/pd/analyses/tableau.csv"
+		"/Users/simonjoly/Documents/labo/étudiants/Florence/article/pd/analyses/table1.csv"
 	],
 	"find":
 	{
@@ -373,7 +364,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -382,75 +373,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 32234,
+						"buffer_size": 33584,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3758,
-								3758
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 943.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "en/index.html",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 28689,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "fr/publications.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 32394,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3644,
-								3644
+								4078,
+								3964
 							]
 						],
 						"settings":
@@ -464,6 +395,36 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "en/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 29867,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5590,
+								5590
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2265.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
