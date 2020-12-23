@@ -31,7 +31,7 @@
 			"file": "en/publications.html",
 			"settings":
 			{
-				"buffer_size": 33997,
+				"buffer_size": 34633,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -40,7 +40,7 @@
 			"file": "fr/publications.html",
 			"settings":
 			{
-				"buffer_size": 34156,
+				"buffer_size": 34791,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -49,25 +49,34 @@
 			"file": "en/index.html",
 			"settings":
 			{
-				"buffer_size": 29867,
+				"buffer_size": 31035,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "fr/journal_club.html",
+			"file": "fr/index.html",
 			"settings":
 			{
-				"buffer_size": 53016,
+				"buffer_size": 33046,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "en/journal_club.html",
+			"file": "fr/people.html",
 			"settings":
 			{
-				"buffer_size": 52746,
+				"buffer_size": 10120,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "en/people.html",
+			"settings":
+			{
+				"buffer_size": 9973,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -111,12 +120,16 @@
 	],
 	"file_history":
 	[
+		"/Users/ujoly92/Downloads/Heath Lab – EEOB – Iowa State University.htm",
+		"/Users/ujoly92/Downloads/Carousel Template · Bootstrap.htm",
+		"/Users/ujoly92/github/plantevolution.github.io/fr/people2.html",
+		"/Users/ujoly92/github/plantevolution.github.io/en/journal_club.html",
+		"/Users/ujoly92/github/plantevolution.github.io/fr/journal_club.html",
+		"/Users/ujoly92/Documents/labo/étudiants/Gonzalo/article_petals/submitted/Suggested_reviewers.txt",
 		"/Users/ujoly92/Downloads/en_climate_daily_NT_2204100_1988_P1D.csv",
 		"/Users/ujoly92/github/plantevolution.github.io/fr/publications.html",
 		"/Users/ujoly92/github/plantevolution.github.io/en/people.html",
 		"/Users/ujoly92/github/plantevolution.github.io/fr/people.html",
-		"/Users/ujoly92/github/plantevolution.github.io/fr/journal_club.html",
-		"/Users/ujoly92/github/plantevolution.github.io/en/journal_club.html",
 		"/Users/ujoly92/github/plantevolution.github.io/en/index.html",
 		"/Users/ujoly92/github/plantevolution.github.io/fr/index.html",
 		"/Users/simjoly/Documents/GitHub/plantevolution.github.io/fr/index.html",
@@ -234,11 +247,7 @@
 		"/Users/simonjoly/Desktop/phyloGeneratorMac_1-2/FinalSpeciesList_NovelClimates.csv",
 		"/Users/simonjoly/Desktop/CCCVTK-master/cv.tex",
 		"/Users/simonjoly/Documents/papers/matchstates/analysis/organisms.nex",
-		"/Users/simonjoly/Documents/revisions/plosone/2014/Vigouroux_millet/Reviewers.txt",
-		"/Users/simonjoly/Documents/revisions/SystBiol/2014/Review of Morando.txt",
-		"/Users/simonjoly/Documents/UdeM/comités conseils/Boris Domenech/comité conseil - Boris Domenech - commentaires.txt",
-		"/Users/simonjoly/Documents/gesneria/terrain/haiti/Liste Gesneriaceae d'Haïti.txt",
-		"/Users/simonjoly/Documents/labo/étudiants/Florence/article/pd/analyses/table1.csv"
+		"/Users/simonjoly/Documents/revisions/plosone/2014/Vigouroux_millet/Reviewers.txt"
 	],
 	"find":
 	{
@@ -400,15 +409,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 33997,
+						"buffer_size": 34633,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5255,
-								5864
+								3680,
+								3680
 							]
 						],
 						"settings":
@@ -418,7 +427,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1549.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -430,15 +439,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 34156,
+						"buffer_size": 34791,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4536,
-								4536
+								3706,
+								3706
 							]
 						],
 						"settings":
@@ -448,7 +457,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1424.0,
+						"translation.y": 1110.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -460,15 +469,45 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 29867,
+						"buffer_size": 31035,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5590,
-								5590
+								7569,
+								7569
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "fr/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 33046,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30212,
+								30311
 							]
 						],
 						"settings":
@@ -485,50 +524,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "fr/journal_club.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 53016,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3488,
-								5822
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
 					"buffer": 4,
-					"file": "en/journal_club.html",
+					"file": "fr/people.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 52746,
+						"buffer_size": 10120,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5717,
-								5717
+								5794,
+								5794
 							]
 						],
 						"settings":
@@ -542,6 +551,36 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "en/people.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9973,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4455,
+								4704
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
