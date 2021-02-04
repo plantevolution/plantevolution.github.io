@@ -31,7 +31,7 @@
 			"file": "en/publications.html",
 			"settings":
 			{
-				"buffer_size": 34828,
+				"buffer_size": 35317,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -40,7 +40,7 @@
 			"file": "fr/publications.html",
 			"settings":
 			{
-				"buffer_size": 34985,
+				"buffer_size": 35474,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -64,19 +64,19 @@
 			}
 		},
 		{
-			"file": "fr/people.html",
+			"file": "en/journal_club.html",
 			"settings":
 			{
-				"buffer_size": 10120,
+				"buffer_size": 55853,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "en/people.html",
+			"file": "fr/journal_club.html",
 			"settings":
 			{
-				"buffer_size": 9973,
+				"buffer_size": 56145,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -120,16 +120,16 @@
 	],
 	"file_history":
 	[
+		"/Users/ujoly92/github/plantevolution.github.io/fr/people.html",
+		"/Users/ujoly92/github/plantevolution.github.io/en/people.html",
+		"/Users/ujoly92/github/plantevolution.github.io/en/journal_club.html",
+		"/Users/ujoly92/github/plantevolution.github.io/fr/journal_club.html",
 		"/Users/ujoly92/Downloads/Heath Lab – EEOB – Iowa State University.htm",
 		"/Users/ujoly92/Downloads/Carousel Template · Bootstrap.htm",
 		"/Users/ujoly92/github/plantevolution.github.io/fr/people2.html",
-		"/Users/ujoly92/github/plantevolution.github.io/en/journal_club.html",
-		"/Users/ujoly92/github/plantevolution.github.io/fr/journal_club.html",
 		"/Users/ujoly92/Documents/labo/étudiants/Gonzalo/article_petals/submitted/Suggested_reviewers.txt",
 		"/Users/ujoly92/Downloads/en_climate_daily_NT_2204100_1988_P1D.csv",
 		"/Users/ujoly92/github/plantevolution.github.io/fr/publications.html",
-		"/Users/ujoly92/github/plantevolution.github.io/en/people.html",
-		"/Users/ujoly92/github/plantevolution.github.io/fr/people.html",
 		"/Users/ujoly92/github/plantevolution.github.io/en/index.html",
 		"/Users/ujoly92/github/plantevolution.github.io/fr/index.html",
 		"/Users/simjoly/Documents/GitHub/plantevolution.github.io/fr/index.html",
@@ -265,6 +265,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"14h00",
+			"12h00",
+			"Centre, B.114",
 			"À déterminer",
 			"à venir",
 			"12h00",
@@ -368,6 +371,9 @@
 		"regex": false,
 		"replace_history":
 		[
+			"2 pm",
+			"14h00",
+			"Zoom!",
 			"<em>à déterminer</em>",
 			"<em>TBA</em>",
 			"<em>à déterminer</em>",
@@ -400,7 +406,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 4,
 			"sheets":
 			[
 				{
@@ -409,15 +415,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 34828,
+						"buffer_size": 35317,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4025,
-								4025
+								4796,
+								4907
 							]
 						],
 						"settings":
@@ -430,7 +436,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
@@ -439,15 +445,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 34985,
+						"buffer_size": 35474,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3861,
-								4055
+								4932,
+								4932
 							]
 						],
 						"settings":
@@ -487,10 +493,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1739.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
@@ -520,24 +526,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
 					"buffer": 4,
-					"file": "fr/people.html",
+					"file": "en/journal_club.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 10120,
+						"buffer_size": 55853,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5794,
-								5794
+								4095,
+								4250
 							]
 						],
 						"settings":
@@ -547,27 +553,27 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1435.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
 					"buffer": 5,
-					"file": "en/people.html",
+					"file": "fr/journal_club.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 9973,
+						"buffer_size": 56145,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4455,
-								4704
+								4282,
+								4282
 							]
 						],
 						"settings":
@@ -580,7 +586,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
