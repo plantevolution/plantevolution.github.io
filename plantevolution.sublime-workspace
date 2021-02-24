@@ -31,7 +31,7 @@
 			"file": "en/publications.html",
 			"settings":
 			{
-				"buffer_size": 35720,
+				"buffer_size": 36109,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -40,7 +40,7 @@
 			"file": "fr/publications.html",
 			"settings":
 			{
-				"buffer_size": 35876,
+				"buffer_size": 36265,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -415,15 +415,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 35720,
+						"buffer_size": 36109,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4111,
-								4111
+								3495,
+								3495
 							]
 						],
 						"settings":
@@ -433,7 +433,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2150.0,
+						"translation.y": 979.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -445,15 +445,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 35876,
+						"buffer_size": 36265,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								8213,
-								8397
+								3510,
+								3510
 							]
 						],
 						"settings":
@@ -463,7 +463,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1194.0,
+						"translation.y": 1103.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -553,7 +553,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1437.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
