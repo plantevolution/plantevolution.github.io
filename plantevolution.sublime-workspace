@@ -67,7 +67,7 @@
 			"file": "en/journal_club.html",
 			"settings":
 			{
-				"buffer_size": 55853,
+				"buffer_size": 56426,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -76,7 +76,7 @@
 			"file": "fr/journal_club.html",
 			"settings":
 			{
-				"buffer_size": 56145,
+				"buffer_size": 56718,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -406,7 +406,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 4,
 			"sheets":
 			[
 				{
@@ -433,10 +433,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 979.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
@@ -452,8 +452,8 @@
 						"selection":
 						[
 							[
-								3510,
-								3510
+								4409,
+								4250
 							]
 						],
 						"settings":
@@ -463,10 +463,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1103.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -535,15 +535,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 55853,
+						"buffer_size": 56426,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4008,
-								4008
+								7064,
+								7064
 							]
 						],
 						"settings":
@@ -553,10 +553,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 2848.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -565,15 +565,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 56145,
+						"buffer_size": 56718,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4282,
-								4282
+								7113,
+								7113
 							]
 						],
 						"settings":
@@ -583,10 +583,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 2722.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
