@@ -133,6 +133,7 @@
 	],
 	"file_history":
 	[
+		"/Users/ujoly92/Documents/pyphlawd/cosewic/cosewic_outpart",
 		"/Users/ujoly92/github/plantevolution.github.io/en/reproduction.html",
 		"/Users/ujoly92/github/plantevolution.github.io/en/journal_club.html",
 		"/Users/ujoly92/github/plantevolution.github.io/fr/publications.html",
@@ -259,8 +260,7 @@
 		"/Users/simonjoly/Documents/labo/SiteWeb 3/SiteWeb.sublime-project",
 		"/Users/simonjoly/Desktop/test/test.recomb.par",
 		"/Users/simonjoly/Desktop/phyloGeneratorMac_1-2/test.txt",
-		"/Users/simonjoly/Desktop/phyloGeneratorMac_1-2/FinalSpeciesList_NovelClimates.csv",
-		"/Users/simonjoly/Desktop/CCCVTK-master/cv.tex"
+		"/Users/simonjoly/Desktop/phyloGeneratorMac_1-2/FinalSpeciesList_NovelClimates.csv"
 	],
 	"find":
 	{
@@ -419,7 +419,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -446,10 +446,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1001.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -476,10 +476,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1006.0,
+						"translation.y": 1153.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -506,7 +506,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1499.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 3,
