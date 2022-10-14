@@ -35,7 +35,7 @@
 			"file": "en/publications.html",
 			"settings":
 			{
-				"buffer_size": 39685,
+				"buffer_size": 41025,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -44,7 +44,7 @@
 			"file": "fr/publications.html",
 			"settings":
 			{
-				"buffer_size": 39837,
+				"buffer_size": 41185,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -428,15 +428,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 39685,
+						"buffer_size": 41025,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3424,
-								3424
+								3686,
+								3968
 							]
 						],
 						"settings":
@@ -446,7 +446,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1084.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -458,15 +458,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 39837,
+						"buffer_size": 41185,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3921,
-								3921
+								3715,
+								3715
 							]
 						],
 						"settings":
@@ -476,7 +476,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1153.0,
+						"translation.y": 1141.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
