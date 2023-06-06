@@ -35,7 +35,7 @@
 			"file": "en/publications.html",
 			"settings":
 			{
-				"buffer_size": 41025,
+				"buffer_size": 42635,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -44,25 +44,7 @@
 			"file": "fr/publications.html",
 			"settings":
 			{
-				"buffer_size": 41185,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "en/people.html",
-			"settings":
-			{
-				"buffer_size": 10445,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "fr/people.html",
-			"settings":
-			{
-				"buffer_size": 10605,
+				"buffer_size": 42806,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -71,7 +53,7 @@
 			"file": "en/index.html",
 			"settings":
 			{
-				"buffer_size": 34982,
+				"buffer_size": 38361,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -80,16 +62,16 @@
 			"file": "fr/index.html",
 			"settings":
 			{
-				"buffer_size": 37266,
+				"buffer_size": 40805,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "fr/journal_club.html",
+			"file": "css/bootstrap.min.css",
 			"settings":
 			{
-				"buffer_size": 57011,
+				"buffer_size": 113040,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -129,10 +111,18 @@
 	[
 		"/Users/simonjoly/Documents/github/plantevolution.github.io",
 		"/Users/ujoly92/github/plantevolution.github.io/en",
-		"/Users/ujoly92/github/plantevolution.github.io/fr"
+		"/Users/ujoly92/github/plantevolution.github.io/fr",
+		"/Users/ujoly92/github/plantevolution.github.io/css"
 	],
 	"file_history":
 	[
+		"/Users/ujoly92/github/plantevolution.github.io/css/bootstrap.css",
+		"/Users/ujoly92/github/plantevolution.github.io/fr/journal_club.html",
+		"/Users/ujoly92/github/plantevolution.github.io/css/bootstrap.min.css",
+		"/Users/ujoly92/github/plantevolution.github.io/fr/people.html",
+		"/Users/ujoly92/github/plantevolution.github.io/en/people.html",
+		"/Users/ujoly92/github/plantevolution.github.io/fr/softwares.html",
+		"/Users/ujoly92/github/plantevolution.github.io/en/softwares.html",
 		"/Users/ujoly92/Documents/pyphlawd/cosewic/cosewic_outpart",
 		"/Users/ujoly92/github/plantevolution.github.io/en/reproduction.html",
 		"/Users/ujoly92/github/plantevolution.github.io/en/journal_club.html",
@@ -140,9 +130,6 @@
 		"/Users/ujoly92/github/plantevolution.github.io/en/publications.html",
 		"/Users/ujoly92/github/plantevolution.github.io/fr/index.html",
 		"/Users/ujoly92/github/plantevolution.github.io/en/index.html",
-		"/Users/ujoly92/github/plantevolution.github.io/fr/people.html",
-		"/Users/ujoly92/github/plantevolution.github.io/en/people.html",
-		"/Users/ujoly92/github/plantevolution.github.io/fr/journal_club.html",
 		"/Users/ujoly92/Downloads/Heath Lab – EEOB – Iowa State University.htm",
 		"/Users/ujoly92/Downloads/Carousel Template · Bootstrap.htm",
 		"/Users/ujoly92/github/plantevolution.github.io/fr/people2.html",
@@ -256,15 +243,11 @@
 		"/Users/simonjoly/Documents/gesneria/morpho/landmarks/projet François/complet2/honor.nts",
 		"/Users/simonjoly/Documents/gesneria/morpho/landmarks/projet François/complet2/Specimens_removed.txt",
 		"/Users/simonjoly/Documents/UdeM/comités conseils/CindyBouchard/CindyBouchard_septembre2014.txt",
-		"/Users/simonjoly/Documents/labo/SiteWeb 3/SiteWeb.sublime-workspace",
-		"/Users/simonjoly/Documents/labo/SiteWeb 3/SiteWeb.sublime-project",
-		"/Users/simonjoly/Desktop/test/test.recomb.par",
-		"/Users/simonjoly/Desktop/phyloGeneratorMac_1-2/test.txt",
-		"/Users/simonjoly/Desktop/phyloGeneratorMac_1-2/FinalSpeciesList_NovelClimates.csv"
+		"/Users/simonjoly/Documents/labo/SiteWeb 3/SiteWeb.sublime-workspace"
 	],
 	"find":
 	{
-		"height": 24.0
+		"height": 39.0
 	},
 	"find_in_files":
 	{
@@ -278,6 +261,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			".media",
+			"video",
 			"14h00",
 			"12h00",
 			"Centre, B.114",
@@ -419,7 +404,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -428,75 +413,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 41025,
+						"buffer_size": 42635,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3686,
-								3968
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1084.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "fr/publications.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 41185,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3715,
-								3715
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1141.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "en/people.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 10445,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								5478,
-								5478
+								244,
+								338
 							]
 						],
 						"settings":
@@ -513,50 +438,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "fr/people.html",
+					"buffer": 1,
+					"file": "fr/publications.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 10605,
+						"buffer_size": 42806,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5730,
-								5730
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "en/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 34982,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3408,
-								3408
+								339,
+								339
 							]
 						],
 						"settings":
@@ -573,20 +468,50 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 2,
+					"file": "en/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 38361,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7241,
+								7241
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1811.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
 					"file": "fr/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 37266,
+						"buffer_size": 40805,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								6370,
-								6370
+								6477,
+								6477
 							]
 						],
 						"settings":
@@ -596,40 +521,38 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1907.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 6,
-					"file": "fr/journal_club.html",
+					"buffer": 4,
+					"file": "css/bootstrap.min.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 57011,
+						"buffer_size": 113040,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								6524,
-								6524
+								113040,
+								113040
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
 						},
-						"translation.x": 0.0,
+						"translation.x": 790455.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
